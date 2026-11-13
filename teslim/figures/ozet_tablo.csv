@@ -1,0 +1,5 @@
+algorithm,energy_wh,time_s,distance_m,expanded_nodes,runtime_ms
+BFS,1.879,57.988,877.105,60.35,0.05
+UCS,1.746,54.701,829.324,69.15,0.272
+GREEDY,2.079,60.443,915.338,17.7,0.331
+ASTAR,1.746,54.701,829.324,61.7,0.322

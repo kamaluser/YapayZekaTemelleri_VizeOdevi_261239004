@@ -1,0 +1,11 @@
+scenario_id,start_node,goal_node,wind_condition,objective
+H01,N017,N076,LOW_WIND,energy
+H02,N100,N057,MEDIUM_WIND,energy
+H03,N010,N074,HIGH_WIND,energy
+H04,N064,N019,LOW_WIND,energy
+H05,N037,N102,MEDIUM_WIND,energy
+H06,N079,N032,HIGH_WIND,energy
+H07,N011,N101,LOW_WIND,energy
+H08,N057,N009,MEDIUM_WIND,energy
+H09,N059,N089,HIGH_WIND,energy
+H10,N088,N058,LOW_WIND,energy
